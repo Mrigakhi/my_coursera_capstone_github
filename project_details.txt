@@ -1,0 +1,27 @@
+Raw material sourcing for restaurants
+
+1. Introduction:
+1.1 Background
+
+Bangalore, the capital city of Karnataka of southern India is  an IT Hub.
+People from indegineous culture resides in Bangalore as thousands of people come to Bangalore 
+for exciting job or business opportunities. Bangalore is also famous for its night life and food.
+The population of youth is high compared to other metropolitan cities in India which keeps the 
+city lively and crowded. Restaurants and food chains are also rushed with quite a number of people
+
+1.2 Problem
+
+Just like other individuals, a friend of mine would like to start a business of his own in Bangalore.
+As there are many localities lined up with food chains and restaurants, a supply of raw materials 
+or raw food and vegetables would be a good business. Being in Bangalore for past 2 years, has given me idea 
+of localities to find delicious delicacies. So, suggestion regarding localities for the business
+with the appropriate data would be a good problem statement. And as the capital that would be invested is 
+not that grand, we have targeted a few localities and would find the apt one to start the business with.
+
+
+
+2. Data Acquisition
+
+The Data will be collected through foursquare API. Through the API, the task of finding the cafes,
+restaurants of 3 - 4 localities in Bangalore would be easy and efficient. Out of which the most popular locality will be selected.
+We can find it through the likes and tips and ratings which we will gather from Foursquare API.
